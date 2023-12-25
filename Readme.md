@@ -1,9 +1,8 @@
-# Installation
-
-Debian
+# Installation for Debian
 
 ```sh
 sudo apt-get install gcc git git-lfs python3-venv jq -y
+git clone https://github.com/patnaikshekhar/llama_service
 cd llama_service
 git clone git@hf.co:meta-llama/Llama-2-7b-chat-hf
 python3 -m venv venv
