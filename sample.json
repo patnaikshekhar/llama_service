@@ -1,0 +1,5 @@
+{
+    "message": "How do I make a christmas cake?\n",
+    "top_k": 1,
+    "num_return_sequences": 1
+}
